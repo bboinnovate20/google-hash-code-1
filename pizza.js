@@ -18739,5 +18739,4 @@ const input = `
 2 ingredient352 ingredient429
 3 ingredient80 ingredient496 ingredient40
 `
-
 console.log(preparePizza(input));
